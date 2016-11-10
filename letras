@@ -1,0 +1,11 @@
+#include<stdio.h>
+
+int main()
+{
+   printf("\nEntre com uma letra);
+   
+
+
+
+return 0;
+}
